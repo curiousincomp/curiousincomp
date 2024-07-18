@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ashok
 - 👀 I’m interested in Compilers and Low Level programming
+- 😎 For my structural side look at "https://github.com/JAMMIASHOK"
 - 🌱 I’m currently learning C. C++ and Compilers
 - 💞️ I’m looking to collaborate on compiler projects related to C and C++
 - 📫 How to reach me shokriouspiler@gmail.com
